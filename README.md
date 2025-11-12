@@ -1,4 +1,4 @@
-# Ligar e Desligar a Lâmpada
+# Ligar e Apagar a Lâmpada
 
 Projeto simples feito com **HTML**, **CSS** e **JavaScript** para ligar e desligar uma lâmpada.
 
