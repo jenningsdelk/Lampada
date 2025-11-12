@@ -1,4 +1,4 @@
-# Ligar e Apagar a Lâmpada
+# Ligar e Desligar a Lâmpada
 
 Projeto simples feito com **HTML**, **CSS** e **JavaScript** para ligar e desligar uma lâmpada.
 
@@ -16,7 +16,11 @@ Projeto simples feito com **HTML**, **CSS** e **JavaScript** para ligar e deslig
 
 ## Estrutura
 lampada/
+│
 ├── imgs/
+│   ├── pic_bulboff.gif
+│   └── pic_bulbon.gif
+│
 ├── index.html
 ├── style.css
 ├── script.js
